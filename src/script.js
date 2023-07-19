@@ -107,7 +107,7 @@ document
     }
   });
 
-weather.fetchWeather("Manipal");
+weather.fetchWeather("kerala");
 
 document
   .querySelector(".search-bar")
